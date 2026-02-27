@@ -13,8 +13,8 @@ export function Hero() {
               Powered by AI · Built for scale
             </div>
             <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl">
-              Create stunning videos{' '}
-              <span className="text-primary">in minutes</span>
+              Create Viral Videos{' '}
+              <span className="text-primary">In Minutes</span>
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed">
               HeyGen turns your text and data into professional AI videos with realistic avatars.
