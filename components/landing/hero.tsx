@@ -14,7 +14,7 @@ export function Hero() {
             </div>
             <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl">
               Create Viral Shortform Videos for{' '}
-              <span className="text-primary">TikTok!</span>
+              <span className="text-primary">TikTok, YouTube Shorts & more...</span>
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed">
               HeyGen turns your text and data into professional AI videos with realistic avatars.
